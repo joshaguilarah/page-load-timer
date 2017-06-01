@@ -1,6 +1,6 @@
 {
   "name": "page-load-timer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Measures the time it takes to load a web page",
   "main": "lib/index.js",
   "bin": {
