@@ -40,7 +40,7 @@ Request #8: 1512ms
 Request #9: 1386ms
 Request #10: 1306ms
 Page load timer complete
-URL: http://www.allhomes.com.au
+URL: http://www.google.com
 Number of requests: 10
 Average page load time: 2014.5ms
 ```
