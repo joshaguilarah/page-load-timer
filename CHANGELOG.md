@@ -5,6 +5,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased][]
+
+## [0.1.1][] - 2017-06-01
 ### Fixed
 - Add `.npmignore` file
 
@@ -12,5 +14,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 - Initial commit
 
-[Unreleased]: https://github.com/joshaguilarah/page-load-timer/compare/v0.1.0...HEAD
+[Unreleased]: https://github.com/joshaguilarah/page-load-timer/compare/v0.1.1...HEAD
+[0.1.1]: https://github.com/joshaguilarah/page-load-timer/compare/v0.1.0...v0.1.1
 [0.1.0]: https://github.com/joshaguilarah/page-load-timer/tree/v0.1.0
