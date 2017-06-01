@@ -14,6 +14,13 @@
     "prepublish": "not-in-install && yarn run build || in-install",
     "version": "version-changelog CHANGELOG.md && changelog-verify CHANGELOG.md && git add CHANGELOG.md"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshaguilarah/page-load-timer"
+  },
+  "bugs": {
+    "url": "https://github.com/joshaguilarah/page-load-timer/issues"
+  },
   "author": "Josh Aguilar <j.serafin.aguilar@gmail.com>",
   "license": "ISC",
   "dependencies": {
